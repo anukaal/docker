@@ -5,25 +5,25 @@ $ docker run nginx
 
 ```
 ```
-docker ps 
+$ docker ps 
 
 ```
 ```
-docker ps -a
+$ docker ps -a
 
 ```
 ```
-docker stop image_name
+$ docker stop image_name
 
 ```
 ```
-docker rm container
+$ docker rm container
 
 ```
 ```
-docker images
+$ docker images
 
 ```
 ```
-docker rmi images
+$ docker rmi images
 ```
