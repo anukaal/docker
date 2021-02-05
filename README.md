@@ -70,5 +70,35 @@ Run - PORT mapping
 
 $ docker run –p 80:5000 kodekloud/simple-webapp
 $ docker run -p 8306:3306 mysql
+```
 
+```
+Run - Volume mapping
+
+$  docker run –v /opt/datadir:/var/lib/mysql mysql
+```
+
+```
+Inspect container
+
+$ docker inspect ubuntu
+```
+
+```
+Container logs
+
+$ docker logs redis
+```
+
+```
+ENV Variable in docker
+
+$ docker run -e APP_COLOR=blue simple-webapp-color
+```
+
+```
+Inspect environment variable
+
+$ docker inspect blissful_hopper
+```
 
