@@ -101,4 +101,8 @@ Inspect environment variable
 
 $ docker inspect blissful_hopper
 ```
+```
+Docker build 
 
+$ docker build .
+```
