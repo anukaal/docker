@@ -1,4 +1,27 @@
+
+```
+Course - docker for beginners 
+
+https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
+
+```
+
+```
+Ppt on docker for beginners 
+
+https://docs.google.com/presentation/d/1BbwMpYkVpSJi67MdBr_WR_MjlrtT5_lfnWjX1gkxFLc/edit?usp=sharing
+
+```
+
+
+
+
+
+
+```
 # Docker Basic commands 
+
+```
 
 ```
 Run - start a container 
