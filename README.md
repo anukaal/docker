@@ -5,6 +5,13 @@ Course - docker for beginners
 https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 
 ```
+```
+
+Course - on docker swarm
+
+https://kodekloud.com/p/docker-swarm-services-stacks-hands-on
+
+```
 
 ```
 Ppt on docker for beginners 
